@@ -4,3 +4,5 @@
 
 
 [ansi 控制光标、颜色](./ansi-test)
+
+[cli 进度条](./cli-progress-test/)
