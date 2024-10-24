@@ -10,3 +10,9 @@
 
 [实现 prompts](./my-prompts/)
 
+[cli 组件库 blessed](./blessed-test/)
+
+[cli 图表库 blessed-contrib](./blessed-contrib-test/)
+
+
+
