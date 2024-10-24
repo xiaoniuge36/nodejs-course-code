@@ -14,6 +14,8 @@
 
 [cli 图表库 blessed-contrib](./blessed-contrib-test/)
 
+[手写 create-vite](./my-create-vite/)
+
 [Node.js 线程池](./worker-test/)
 
 [结合 RxJS 和线程池实现目录扫描](./scan-thread-pool/)
@@ -27,6 +29,3 @@
 [yarn workspace + changeset 实战](./yarn-monorepo-test/)
 
 [pnpm workspace + changeset 实战](./pnpm-monorepo-test/)
-
-
-
