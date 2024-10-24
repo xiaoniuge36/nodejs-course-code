@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const buffer = new ArrayBuffer(10);
+
+        const dataView = new DataView(buffer);
+
+        dataView.setUint16(0, 256);
+
+        console.log(dataView.getUint16(0));
+
+        console.log(dataView.getUint8(0));
+        console.log(dataView.getUint8(8));
+    </script>
+</body>
+</html>
