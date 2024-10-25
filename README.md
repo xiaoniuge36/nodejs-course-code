@@ -14,6 +14,8 @@
 
 [cli 图表库 blessed-contrib](./blessed-contrib-test/)
 
+[cli 系统监控仪表盘](./cli-dashboard/)
+
 [手写 create-vite](./my-create-vite/)
 
 [Node.js 线程池](./worker-test/)
@@ -35,4 +37,5 @@
 [react-i18n 实现国际化](./react-i18n-test/)
 
 [自动国际化 cli](./auto-i18n-cli/)
+
 
