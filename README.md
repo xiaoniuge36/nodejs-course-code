@@ -36,6 +36,8 @@
 
 [Node.js 操作二进制数据： Buffer、Blob](./buffer-test/)
 
+[手写 DNS 服务器](./my-dns-server/)
+
 [react-i18n 实现国际化](./react-i18n-test/)
 
 [自动国际化 cli](./auto-i18n-cli/)
