@@ -18,6 +18,8 @@
 
 [手写 create-vite](./my-create-vite/)
 
+[手写 source-map-support](./my-source-map-support/)
+
 [Node.js 线程池](./worker-test/)
 
 [结合 RxJS 和线程池实现目录扫描](./scan-thread-pool/)
