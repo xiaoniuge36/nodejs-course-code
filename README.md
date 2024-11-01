@@ -43,3 +43,5 @@
 [react-i18n 实现国际化](./react-i18n-test/)
 
 [自动国际化 cli](./auto-i18n-cli/)
+
+[脚手架 cli 用到的包](./scaffold-pkg-test/)
