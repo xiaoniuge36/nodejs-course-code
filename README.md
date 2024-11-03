@@ -45,3 +45,6 @@
 [自动国际化 cli](./auto-i18n-cli/)
 
 [脚手架 cli 用到的包](./scaffold-pkg-test/)
+
+[脚手架 cli](./guang-cli)
+
