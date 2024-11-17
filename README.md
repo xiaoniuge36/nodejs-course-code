@@ -34,6 +34,8 @@
 
 [pnpm workspace + changeset 实战](./pnpm-monorepo-test/)
 
+[快速掌握 rollup](./rollup-test/)
+
 [Node.js 操作二进制数据： Buffer、Blob](./buffer-test/)
 
 [手写 DNS 服务器](./my-dns-server/)
