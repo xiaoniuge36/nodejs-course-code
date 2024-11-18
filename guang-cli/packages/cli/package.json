@@ -1,6 +1,6 @@
 {
   "name": "@guang-cli/cli",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "publishConfig": {
     "access": "public"
   },
