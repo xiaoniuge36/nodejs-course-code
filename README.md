@@ -50,3 +50,4 @@
 
 [脚手架 cli](./guang-cli)
 
+[调用 openai 接口生成组件](./openai-test/)
