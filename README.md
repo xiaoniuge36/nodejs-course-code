@@ -51,3 +51,6 @@
 [脚手架 cli](./guang-cli)
 
 [调用 openai 接口生成组件](./openai-test/)
+
+[cli 网站生成器--技术调研](./cli-bolt-new-test/)
+
