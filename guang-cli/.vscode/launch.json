@@ -20,12 +20,12 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "调试 create",
+            "name": "调试 generate",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "console": "integratedTerminal",
-            "program": "${workspaceFolder}/packages/create/src/index.ts",
+            "program": "${workspaceFolder}/packages/generate/src/index.ts",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]

@@ -1,5 +1,17 @@
 # @guang-cli/template-react
 
+## 1.3.2
+
+### Patch Changes
+
+- generate command
+
+## 1.3.1
+
+### Patch Changes
+
+- generate + config
+
 ## 1.3.0
 
 ### Minor Changes
