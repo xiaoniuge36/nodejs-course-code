@@ -14,6 +14,6 @@ async function main() {
 
     const allData = await db.all('SELECT * FROM student');
     console.log(allData);
-} 
+}
 
 main();
