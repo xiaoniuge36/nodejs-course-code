@@ -42,6 +42,8 @@
 
 [手写 WebSocket 协议解析](./my-websocket/)
 
+[Node.js 的 stream 模块](./stream-test/)
+
 [react-i18n 实现国际化](./react-i18n-test/)
 
 [自动国际化 cli](./auto-i18n-cli/)
