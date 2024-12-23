@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-i18n-test": "file:",
     "react-intl": "^6.6.8"
   },
   "devDependencies": {

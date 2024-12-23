@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "git": "sh git.shell.sh"
+  },
+  "author": "niuge",
+  "dependencies": {
+    "main": "file:"
+  }
+}

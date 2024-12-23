@@ -15,6 +15,7 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
+    "my-source-map-support": "file:",
     "source-map": "^0.6.1"
   }
 }

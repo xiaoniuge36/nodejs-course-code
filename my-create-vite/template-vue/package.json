@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vite-vue-starter": "file:",
     "vue": "^3.5.10"
   },
   "devDependencies": {
